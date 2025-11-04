@@ -1,4 +1,5 @@
 Schwarzbrot
+baguette
 semmeln
 aepfel
 tomaten
