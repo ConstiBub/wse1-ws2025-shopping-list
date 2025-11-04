@@ -3,6 +3,7 @@ tomaten
 gurkerl
 paprika
 birnen
+bananen
 bier
 leberkaese
   -normal
