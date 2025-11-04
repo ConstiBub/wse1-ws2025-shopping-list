@@ -2,6 +2,7 @@ aepfel
 tomaten
 gurkerl
 paprika
+kekse
 birnen
 bananen
 bier
