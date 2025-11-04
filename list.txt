@@ -12,3 +12,4 @@ leberkaese
 chips
 wurst
 kaese
+salat
